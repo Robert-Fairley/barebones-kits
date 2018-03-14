@@ -17,7 +17,7 @@ is used for simulating the DOM.
 * TS  - TypeScript
 
 | Language | Library | Build System | Docker Image | Link                                                           |
-| -------- | ------- | ------------ |              | --------------------------------------------------------------:|
+| -------- | ------- | ------------ | ------------:| --------------------------------------------------------------:|
 | ES6      | None    | Parcel       |           Y  |         https://github.com/Robert-Fairley/es6-parcel-barebones |
 | TS       | None    | Parcel       |           Y  |          https://github.com/Robert-Fairley/ts-parcel-barebones |
 | ES6      | None    | Webpack      |           Y  |        https://github.com/Robert-Fairley/es6-webpack-barebones |
